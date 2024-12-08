@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nishita-dazel/static/css/main.7a96c1b1.css",
-    "main.js": "/nishita-dazel/static/js/main.5c45613f.js",
+    "main.js": "/nishita-dazel/static/js/main.3e09335a.js",
     "static/js/787.4f768a3d.chunk.js": "/nishita-dazel/static/js/787.4f768a3d.chunk.js",
     "static/media/MehediResume.pdf": "/nishita-dazel/static/media/MehediResume.5ccab7194ed6497eb549.pdf",
     "static/media/profile.png": "/nishita-dazel/static/media/profile.9417dd9875e5f6310c11.png",
@@ -14,11 +14,11 @@
     "static/media/testing (1).png": "/nishita-dazel/static/media/testing (1).c85bb8075c4e6d1c465c.png",
     "index.html": "/nishita-dazel/index.html",
     "main.7a96c1b1.css.map": "/nishita-dazel/static/css/main.7a96c1b1.css.map",
-    "main.5c45613f.js.map": "/nishita-dazel/static/js/main.5c45613f.js.map",
+    "main.3e09335a.js.map": "/nishita-dazel/static/js/main.3e09335a.js.map",
     "787.4f768a3d.chunk.js.map": "/nishita-dazel/static/js/787.4f768a3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a96c1b1.css",
-    "static/js/main.5c45613f.js"
+    "static/js/main.3e09335a.js"
   ]
 }
