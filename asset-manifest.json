@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nishita-dazel/static/css/main.7a96c1b1.css",
+    "main.js": "/nishita-dazel/static/js/main.5c45613f.js",
+    "static/js/787.4f768a3d.chunk.js": "/nishita-dazel/static/js/787.4f768a3d.chunk.js",
+    "static/media/MehediResume.pdf": "/nishita-dazel/static/media/MehediResume.5ccab7194ed6497eb549.pdf",
+    "static/media/profile.png": "/nishita-dazel/static/media/profile.9417dd9875e5f6310c11.png",
+    "static/media/lo.png": "/nishita-dazel/static/media/lo.b5df0ba678947d4fcb85.png",
+    "static/media/hero.png": "/nishita-dazel/static/media/hero.82a0900fbf90904570db.png",
+    "static/media/analysis.png": "/nishita-dazel/static/media/analysis.9dcb8ace327cba8b472f.png",
+    "static/media/requirement.png": "/nishita-dazel/static/media/requirement.83d1109e466ab7350b34.png",
+    "static/media/app-development.png": "/nishita-dazel/static/media/app-development.89a4bac80c6fd215aa20.png",
+    "static/media/monitoring.png": "/nishita-dazel/static/media/monitoring.9710a9386cb30a30c5e8.png",
+    "static/media/testing (1).png": "/nishita-dazel/static/media/testing (1).c85bb8075c4e6d1c465c.png",
+    "index.html": "/nishita-dazel/index.html",
+    "main.7a96c1b1.css.map": "/nishita-dazel/static/css/main.7a96c1b1.css.map",
+    "main.5c45613f.js.map": "/nishita-dazel/static/js/main.5c45613f.js.map",
+    "787.4f768a3d.chunk.js.map": "/nishita-dazel/static/js/787.4f768a3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a96c1b1.css",
+    "static/js/main.5c45613f.js"
+  ]
+}
