@@ -28,7 +28,7 @@ const Header = () => {
         <div className="">
           <NavLink className='flex justify-start items-center text-white font-bold text-4xl' onClick={() => { scroll.scrollToTop(); toggleOpen() }}>
             <img src={logu} alt="dryhrt" className="h-7 w-7"/>
-            <span className="pl-1 pt-[1px]">Mehedi</span>
+            <span className="pl-1 pt-[1px]">Dazel</span>
           </NavLink>
         </div>
         <div className="hidden md:flex">

@@ -43,7 +43,7 @@ const Contact = () => {
               <div className="flex justify-start items-center gap-1 pt-2">
                 <Icon icon="zondicons:location" className="address-icon" />
                 <p className="text-[#b5b5b5] hover:text-[#06D889]">
-                  Uttara Sector #15
+                  Kollanpur 
                 </p>
               </div>
               <div className="flex justify-start items-center gap-1 pt-2">
@@ -55,7 +55,7 @@ const Contact = () => {
               <div className="flex justify-start items-center gap-1 pt-2">
                 <Icon icon="ic:round-email" className="address-icon" />
                 <a href="mailto:mrmehedihhasan@gmail.com" className="text-[#b5b5b5]">
-                  mrmehedihhasan@gmail.com
+                  nishitadazel742@gmail.com
                 </a>
               </div>
             </div>
@@ -63,7 +63,7 @@ const Contact = () => {
               <h3 className="text-white font-bold text-2xl">Follow me</h3>
               <h5 className="p-text">Follow me on Social Network</h5>
               <div className="social-network flex">
-                <a href="https://www.facebook.com/profile.php?id=100009684126239">
+                <a href="https://www.facebook.com/@nishita.dazel">
                   <Icon icon="logos:facebook" className="social-i " />
                 </a>
                 <a href="https://x.com/mrmehedihaasan">

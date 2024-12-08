@@ -16,13 +16,13 @@ const About = () => {
           <div className="flex justify-center items-start">
             <div className=''>
               <h5 className='text-white'>Hello i am</h5>
-              <h1 className="font-bold text-white text-3xl py-1">Mehedi hasan</h1>
-              <h1 className='text-white py-1'>2 years of Experiance</h1>
+              <h1 className="font-bold text-white text-3xl py-1">Nishita Dazel</h1>
+              <h1 className='text-white py-1'>1 years of Experiance</h1>
               <button className="btn btn-success px-14 font-bold mb-[15px] mt-[15px] text-white">
                 Contact
               </button>
               <div className="flex justify-start items-center gap-0">
-                <a href="https://www.facebook.com/profile.php?id=100009684126239">
+                <a href="https://www.facebook.com/@nishita.dazel">
                   <Icon icon="logos:facebook" className="social-i " />
                 </a>
                 <a href="https://x.com/mrmehedihaasan">
