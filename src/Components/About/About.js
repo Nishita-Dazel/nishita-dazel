@@ -25,10 +25,10 @@ const About = () => {
                 <a href="https://www.facebook.com/@nishita.dazel">
                   <Icon icon="logos:facebook" className="social-i " />
                 </a>
-                <a href="https://x.com/mrmehedihaasan">
+                {/* <a href="https://x.com/mrmehedihaasan">
                   <Icon icon="logos:twitter" className="social-i" />
-                </a>
-                <a href="https://www.instagram.com/mehedi5149/">
+                </a> */}
+                <a href="https://www.instagram.com/ni.shita1387">
                   <Icon icon="skill-icons:instagram" className="social-i" />
                 </a>
                 <a href="https://web.whatsapp.com/">
@@ -48,7 +48,7 @@ const About = () => {
 
           <div className='grid col-span-10 lg:col-span-2 text-center'>
             <div className='bg-[#06D889] h-16 w-16 rounded-full justify-center flex items-center text-white mx-auto'>
-              <img src={image2} alt='Requirements Gathering Icon' className='h-10 w-10 mt-3' />
+              <img src={image2} alt='Requirements Gathering Icon' className='h-10 w-10 p-0' />
             </div>
             <h1 className='text-lg p-1 font-semibold'>Requirements Gathering</h1>
             <p className='p-1 text-[#b5b5b5]'>Understanding the client's needs and objectives to define a clear project scope.</p>
@@ -56,7 +56,7 @@ const About = () => {
 
           <div className='grid col-span-10 lg:col-span-2 text-center'>
             <div className='bg-[#06D889] h-16 w-16 rounded-full mx-auto justify-center flex items-center text-white'>
-              <img src={image1} alt='Analysis and Planning Icon' className='h-10 w-10 mt-3' />
+              <img src={image1} alt='Analysis and Planning Icon' className='h-10 w-10 p-0' />
             </div>
             <h1 className='text-lg p-3 font-semibold'>Analysis and Planning</h1>
             <p className='p-3 text-[#b5b5b5]'>Developing a strategic plan to ensure a smooth workflow and successful project execution.</p>
@@ -64,7 +64,7 @@ const About = () => {
 
           <div className='grid col-span-10 lg:col-span-2 text-center'>
             <div className='bg-[#06D889] h-16 w-16 rounded-full mx-auto justify-center flex items-center text-white'>
-              <img src={image} alt='Design and Development Icon' className='h-10 w-10 mt-3' />
+              <img src={image} alt='Design and Development Icon' className='h-10 w-10 p-0' />
             </div>
             <h1 className='text-lg p-3 font-semibold'>Design & Development</h1>
             <p className='p-3 text-[#b5b5b5]'>Creating visually appealing designs and building robust, scalable solutions.</p>
@@ -72,7 +72,7 @@ const About = () => {
 
           <div className='grid col-span-10 lg:col-span-2 text-center'>
             <div className='bg-[#06D889] h-16 w-16 rounded-full mx-auto justify-center flex items-center text-white'>
-              <img src={image3} alt='Testing and Release Icon' className='h-10 w-10 mt-3' />
+              <img src={image3} alt='Testing and Release Icon' className='h-10 w-10 p-0' />
             </div>
             <h1 className='text-lg p-3 font-semibold'>Testing & Release</h1>
             <p className='p-3 text-[#b5b5b5]'>Ensuring quality through rigorous testing before delivering the final product.</p>

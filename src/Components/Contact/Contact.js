@@ -12,16 +12,15 @@ const Contact = () => {
   });
 
   const handleSubmit = async () => {
-    console.log(values);
-    // const response = await fetch(`http://localhost:8050/api/create/contact`, {
-    //   method: 'POST',
-    //   headers: {
-    //     'Content-Type': 'application/json',
-    //   },
-    //   body: JSON.stringify(values),
-    // });
-    // const data = await response.json();
-    // alert(data.message)
+    const response = await fetch(`http://localhost:8050/api/create/contact`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(values),
+    });
+    const data = await response.json();
+    alert(data.message)
   };
 
 
@@ -43,12 +42,12 @@ const Contact = () => {
               <div className="flex justify-start items-center gap-1 pt-2">
                 <Icon icon="zondicons:location" className="address-icon" />
                 <p className="text-[#b5b5b5] hover:text-[#06D889]">
-                  Kollanpur 
+                  Kollanpur
                 </p>
               </div>
               <div className="flex justify-start items-center gap-1 pt-2">
                 <Icon icon="fluent:call-16-filled" className="address-icon " />
-                <a href="tel:+123456789" className="text-[#b5b5b5]">+8801750834062</a>
+                <a href="tel:+8801608941094" className="text-[#b5b5b5]">+8801608941094</a>
               </div>
 
 
@@ -66,10 +65,10 @@ const Contact = () => {
                 <a href="https://www.facebook.com/@nishita.dazel">
                   <Icon icon="logos:facebook" className="social-i " />
                 </a>
-                <a href="https://x.com/mrmehedihaasan">
+                {/* <a href="https://x.com/mrmehedihaasan">
                   <Icon icon="logos:twitter" className="social-i" />
-                </a>
-                <a href="https://www.instagram.com/mehedi5149/">
+                </a> */}
+                <a href="https://www.instagram.com/ni.shita1387">
                   <Icon icon="skill-icons:instagram" className="social-i" />
                 </a>
                 <a href="https://web.whatsapp.com/">
@@ -96,7 +95,7 @@ const Contact = () => {
                         className="border-[1px] w-full p-2 bg-gray-100 my-1 rounded-lg"
                         placeholder="Full Name"
                         name="Fname"
-                        onChange={(e) => { setValues({ ...values, first_name: e.target.value })}}/>
+                        onChange={(e) => { setValues({ ...values, first_name: e.target.value }) }} />
                     </div>
                     <div className="">
                       <input
