@@ -5,7 +5,7 @@ import image1 from '../Image/analysis.png'
 import image2 from '../Image/requirement.png'
 import image3 from '../Image/testing (1).png'
 import image4 from '../Image/monitoring.png'
-import profile from '../Image/profile.png'
+import profile from '../Image/da.png'
 
 
 const About = () => {
